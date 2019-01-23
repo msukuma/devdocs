@@ -4,5 +4,6 @@ tmp
 public/assets
 public/fonts
 public/docs/**/*
+com.devdocs.plist
 docs/**/*
 !docs/*.md
